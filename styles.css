@@ -5,7 +5,9 @@ body {
     float: left;
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
+    margin: 10px;
 }
 .card {
-    
+    border-radius: 15;
 }
