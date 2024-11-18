@@ -1,3 +1,10 @@
 body {
     background-color: rgba(79, 81, 83, 0.525);
 }
+.container {
+    text-align: center;
+    width: 240px;
+    height: 100px;
+    border-radius: 15px;
+    margin: 20px;
+}
