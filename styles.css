@@ -2,14 +2,10 @@ body {
     background-color: rgba(79, 81, 83, 0.525);
 }
 .container {
-    text-align: center;
-    width: 1500px;
-    height: 1000px;
-    border-radius: 15px;
-    margin: 20px;
-}
-.card {
     float: left;
     display: flex;
     flex-wrap: wrap;
+}
+.card {
+    
 }
