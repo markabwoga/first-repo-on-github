@@ -7,8 +7,9 @@ body {
     height: 100px;
     border-radius: 15px;
     margin: 20px;
-    float: left;
 }
-.pic_1{
-    
+.card {
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
 }
